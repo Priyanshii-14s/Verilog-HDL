@@ -1,5 +1,4 @@
 # Verilog-HDL
-# Verilog HDL Practice & Projects
 
 Welcome to my Verilog HDL repository! 
 
