@@ -1,4 +1,4 @@
-# 01 - Half Adder
+# 01 - Half Adder (Gate level modelling)
 
 A half adder is a combinational logic circuit that adds two single binary digits ($A$ and $B$) and produces two outputs: **Sum** and **Carry**.
 
