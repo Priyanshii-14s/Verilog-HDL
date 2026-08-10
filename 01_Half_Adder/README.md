@@ -16,8 +16,8 @@ A half adder is a combinational logic circuit that adds two single binary digits
 * **Carry = A $\cdot$ B**
 
 ## 🖼️ Vivado RTL Schematic
-![Half Adder Schematic](./docs/half_adder_schematic.png)
+![Half Adder Schematic](./schematic.pdf)
 
 ## 📁 Files Included
 * `src/half_adder.v` — Verilog gate-level implementation.
-* `docs/half_adder_schematic.png` — Exported Vivado RTL schematic image.
+* `/schematic.pdf` — Exported Vivado RTL schematic image.
