@@ -10,7 +10,7 @@ This repository serves as a practical log of my learning journey. Here, I write,
 
 For each topic, I upload:
 * Well-structured Verilog source code (`.v`)
-* RTL schematics generated in Xilinx Vivado (`.png`)
+* RTL schematics generated in Xilinx Vivado (`.pdf`)
 * Clean documentation explaining truth tables and underlying hardware logic
 
 ---
