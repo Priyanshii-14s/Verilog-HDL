@@ -18,7 +18,7 @@ A full adder is a combinational digital circuit that adds three single binary di
 ## 📐 Logic Equations
 
 - **$\text{Sum} = A \oplus B \oplus C_{in}$**
-- **C_out** = (A · B) + (A ⊕ B) · C_intext{in}}$$
+- **C_out** = **(A · B) + (A ⊕ B) · C_in**
 ---
 
 ## 📁 Files Included
