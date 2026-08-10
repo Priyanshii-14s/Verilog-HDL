@@ -24,7 +24,7 @@ A half subtractor is a combinational logic circuit that subtracts one single bin
 
 ## 🖼️ Vivado RTL Schematic
 
-* 📄 [View RTL Schematic (PDF)](./docs/half_subtractor_schematic.pdf)
+* 📄 [View RTL Schematic (PDF)](.03_Half_Subtractor/schematic.pdf)
 
 ---
 
