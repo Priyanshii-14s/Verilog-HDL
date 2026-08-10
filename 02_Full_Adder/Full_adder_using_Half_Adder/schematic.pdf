@@ -1,0 +1,962 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Title    (Full_adder_using_Half_Adder)
+  /Author   (admin)
+  /Producer (Concept Engineering GmbH)
+  /Creator  (Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38)
+  /CreationDate (D:20260810224735)
+>>
+endobj
+2 0 obj
+<<
+  /Type     /Catalog
+  /Pages    3 0 R
+  /Outlines 7 0 R
+  /PageMode /UseThumbs
+  /ViewerPreferences << /DisplayDocTitle true >>
+>>
+endobj
+4 0 obj
+<<
+  /Type     /Font
+  /Subtype  /Type1
+  /Name     /F1
+  /BaseFont /Helvetica
+  /Encoding /MacRomanEncoding
+>>
+endobj
+5 0 obj
+<<
+  /ExtGState  6 0 R
+  /Font       << /F1 4 0 R >>
+  /ColorSpace << /PCS [/Pattern /DeviceRGB] >>
+  /Pattern    8 0 R
+  /XObject    9 0 R
+>>
+endobj
+%
+% Schematic page 1
+% (user space scaling 0.8)
+%
+10 0 obj
+<<
+  /Type      /Page
+  /Parent    3 0 R
+  /Resources 5 0 R
+  /Contents  11 0 R
+  /MediaBox  [0 0 612 792]
+  /Rotate    0
+>>
+endobj
+11 0 obj
+<<
+  /Length 4501
+>>
+stream
+1 0 0 1 0 295.2 cm
+1 0 0 1 28.8 28.8 cm
+0.8 0 0 -0.8 0 0 cm
+1 0 0 1 0 -180 cm
+0 0 693 180 re
+W n
+/GS gs
+1 0 0 1 92 1 cm
+q
+1.000 1.000 1.000 rg
+/GSa0 gs
+-92 -1 692 181 re
+f
+Q
+[] 0 d
+1 w
+0.000 0.000 0.000 RG
+/GSA0 gs
+0 60 m
+-7 67 l
+-21 67 l
+-21 53 l
+-7 53 l
+h S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 -25 60 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-30.012 -4.308 Td
+(A_FA) Tj
+ET
+Q
+0 90 m
+-7 97 l
+-21 97 l
+-21 83 l
+-7 83 l
+h S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 -25 90 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-30.012 -4.308 Td
+(B_FA) Tj
+ET
+Q
+0 140 m
+-7 147 l
+-21 147 l
+-21 133 l
+-7 133 l
+h S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 -25 140 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-40.008 -4.308 Td
+(Cin_FA) Tj
+ET
+Q
+q
+0.804 0.898 1.000 rg
+/GSa0 gs
+70 28 60 62 re
+f
+Q
+0.341 0.365 0.424 RG
+70 28 60 62 re
+S
+q
+1 0 0 1 81 39 cm
+1 0 0 1 -8 -8 cm
+16 0 0 -16 0 16 cm /Im0 Do
+Q
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 100 26 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-10.008 2.484 Td
+(ha1) Tj
+ET
+Q
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 100 92 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-28.35 -8.616 Td
+(half_adder) Tj
+ET
+Q
+0.110 0.122 0.157 RG
+60 60 m
+70 60 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 68 59 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-6.67 2.07 Td
+(A) Tj
+ET
+Q
+60 80 m
+70 80 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 68 79 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-6.67 2.07 Td
+(B) Tj
+ET
+Q
+140 60 m
+130 60 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 132 59 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 2.07 Td
+(Carry) Tj
+ET
+Q
+140 80 m
+130 80 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 132 79 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 2.07 Td
+(Sum) Tj
+ET
+Q
+80 60 m
+70 60 l
+S
+80 80 m
+70 80 l
+S
+120 60 m
+130 60 l
+S
+120 80 m
+130 80 l
+S
+q
+0.804 0.898 1.000 rg
+/GSa0 gs
+250 88 60 62 re
+f
+Q
+0.341 0.365 0.424 RG
+250 88 60 62 re
+S
+q
+1 0 0 1 261 99 cm
+1 0 0 1 -8 -8 cm
+16 0 0 -16 0 16 cm /Im0 Do
+Q
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 280 86 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-10.008 2.484 Td
+(ha2) Tj
+ET
+Q
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 280 152 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-28.35 -8.616 Td
+(half_adder) Tj
+ET
+Q
+0.110 0.122 0.157 RG
+240 120 m
+250 120 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 248 119 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-6.67 2.07 Td
+(A) Tj
+ET
+Q
+240 140 m
+250 140 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 248 139 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-6.67 2.07 Td
+(B) Tj
+ET
+Q
+320 120 m
+310 120 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 312 119 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 2.07 Td
+(Carry) Tj
+ET
+Q
+320 140 m
+310 140 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 312 139 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 2.07 Td
+(Sum) Tj
+ET
+Q
+260 120 m
+250 120 l
+S
+260 140 m
+250 140 l
+S
+300 120 m
+310 120 l
+S
+300 140 m
+310 140 l
+S
+q
+0.898 0.780 1.000 rg
+/GSa0 gs
+430 55 m
+432 57 l
+434 60 l
+435 62 l
+436 65 l
+437 68 l
+437 72 l
+436 75 l
+435 78 l
+434 80 l
+432 83 l
+430 85 l
+430 85 l
+445 85 l
+445 85 l
+448 85 l
+451 84 l
+454 83 l
+456 82 l
+459 81 l
+462 79 l
+464 77 l
+466 75 l
+468 73 l
+470 70 l
+470 70 l
+468 67 l
+466 65 l
+464 63 l
+462 61 l
+459 59 l
+456 58 l
+454 57 l
+451 56 l
+448 55 l
+445 55 l
+445 55 l
+h f
+Q
+0.341 0.365 0.424 RG
+430 85 m
+430.879 84.2632 431.692 83.4506 432.429 82.5714 c
+439.372 74.2872 438.284 61.943 430 55 c
+S
+430 85 m
+445 85 l
+S
+470 70 m
+464.492 78.6558 455.23 84.2131 445 85 c
+S
+445 55 m
+455.23 55.7869 464.492 61.3442 470 70 c
+S
+445 55 m
+430 55 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 432 54 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+0 2.484 Td
+(C_FA_i) Tj
+ET
+Q
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 432 86 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+0 -8.616 Td
+(RTL_OR) Tj
+ET
+Q
+0.110 0.122 0.157 RG
+420 60 m
+434 60 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 429 59 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-8.34 2.07 Td
+(I0) Tj
+ET
+Q
+420 80 m
+434 80 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 429 79 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-8.34 2.07 Td
+(I1) Tj
+ET
+Q
+480 70 m
+470 70 l
+S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 471 69 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 2.07 Td
+(O) Tj
+ET
+Q
+0.000 0.000 0.000 RG
+520 70 m
+520 63 l
+534 63 l
+541 70 l
+534 77 l
+520 77 l
+h S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 545 70 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+0 -4.308 Td
+(C_FA) Tj
+ET
+Q
+520 140 m
+520 133 l
+534 133 l
+541 140 l
+534 147 l
+520 147 l
+h S
+q
+0.110 0.122 0.157 rg
+/GSa0 gs
+1 0 0 1 545 140 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+0 -4.308 Td
+(S_FA) Tj
+ET
+Q
+0.545 0.765 0.290 RG
+0 60 m
+60 60 l
+S
+0 90 m
+20 90 l
+20 80 l
+60 80 l
+S
+480 70 m
+520 70 l
+S
+0 140 m
+240 140 l
+S
+320 140 m
+520 140 l
+S
+140 80 m
+200 80 l
+200 120 l
+240 120 l
+S
+140 60 m
+420 60 l
+S
+320 120 m
+380 120 l
+380 80 l
+420 80 l
+S
+endstream
+endobj
+3 0 obj
+<<
+  /Type    /Pages
+  /Kids
+  [
+  10 0 R
+  ]
+  /Count   1
+  /ProcSet [ /PDF /Text /ImageB /ImageC ]
+>>
+endobj
+6 0 obj
+<<
+  /GS << /Type /ExtGState
+         /LC    0
+         /LJ    0
+         /ML    4.0
+         /ca    1.0
+         /CA    1.0
+         /AIS   false
+         /SMask /None
+  >>
+  /GSa0 << /Type /ExtGState /ca 1 >>
+  /GSA0 << /Type /ExtGState /CA 1 >>
+>>
+endobj
+15 0 obj
+<<
+  /Title  (C_FA_i RTL_OR)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 438 388 486 434]
+  /Parent 14 0 R
+  /Next   16 0 R
+>>
+endobj
+16 0 obj
+<<
+  /Title  (ha1 half_adder)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 150 383 227 456]
+  /Parent 14 0 R
+  /Prev   15 0 R
+  /Next   17 0 R
+>>
+endobj
+17 0 obj
+<<
+  /Title  (ha2 half_adder)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 294 335 371 408]
+  /Parent 14 0 R
+  /Prev   16 0 R
+>>
+endobj
+14 0 obj
+<<
+  /Title  (instances)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 13 0 R
+  /First  15 0 R
+  /Last   17 0 R
+  /Count  3
+  /Next   18 0 R
+>>
+endobj
+19 0 obj
+<<
+  /Title  (A_FA input)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 58 412 103 425]
+  /Parent 18 0 R
+  /Next   20 0 R
+>>
+endobj
+20 0 obj
+<<
+  /Title  (B_FA input)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 58 388 103 401]
+  /Parent 18 0 R
+  /Prev   19 0 R
+  /Next   21 0 R
+>>
+endobj
+21 0 obj
+<<
+  /Title  (C_FA output)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 517 404 562 417]
+  /Parent 18 0 R
+  /Prev   20 0 R
+  /Next   22 0 R
+>>
+endobj
+22 0 obj
+<<
+  /Title  (Cin_FA input)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 50 348 103 361]
+  /Parent 18 0 R
+  /Prev   21 0 R
+  /Next   23 0 R
+>>
+endobj
+23 0 obj
+<<
+  /Title  (S_FA output)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 517 348 562 361]
+  /Parent 18 0 R
+  /Prev   22 0 R
+>>
+endobj
+18 0 obj
+<<
+  /Title  (ports)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 13 0 R
+  /First  19 0 R
+  /Last   23 0 R
+  /Count  5
+  /Prev   14 0 R
+  /Next   24 0 R
+>>
+endobj
+24 0 obj
+<<
+  /Title  (portBuses)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 13 0 R
+  /First  0 0 R
+  /Last   0 0 R
+  /Count  0
+  /Prev   18 0 R
+  /Next   25 0 R
+>>
+endobj
+26 0 obj
+<<
+  /Title  (A_FA)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 102 419 150 419]
+  /Parent 25 0 R
+  /Next   27 0 R
+>>
+endobj
+27 0 obj
+<<
+  /Title  (B_FA)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 101 394 151 404]
+  /Parent 25 0 R
+  /Prev   26 0 R
+  /Next   28 0 R
+>>
+endobj
+28 0 obj
+<<
+  /Title  (C_FA)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 486 411 518 411]
+  /Parent 25 0 R
+  /Prev   27 0 R
+  /Next   29 0 R
+>>
+endobj
+29 0 obj
+<<
+  /Title  (Cin_FA)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 102 355 294 355]
+  /Parent 25 0 R
+  /Prev   28 0 R
+  /Next   30 0 R
+>>
+endobj
+30 0 obj
+<<
+  /Title  (S_FA)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 358 355 518 355]
+  /Parent 25 0 R
+  /Prev   29 0 R
+  /Next   31 0 R
+>>
+endobj
+31 0 obj
+<<
+  /Title  (w1)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 213 370 295 404]
+  /Parent 25 0 R
+  /Prev   30 0 R
+  /Next   32 0 R
+>>
+endobj
+32 0 obj
+<<
+  /Title  (w2)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 214 419 438 419]
+  /Parent 25 0 R
+  /Prev   31 0 R
+  /Next   33 0 R
+>>
+endobj
+33 0 obj
+<<
+  /Title  (w3)
+  /C      [0.0 0.0 0.4]
+  /Dest   [10 0 R /FitR 357 370 439 404]
+  /Parent 25 0 R
+  /Prev   32 0 R
+>>
+endobj
+25 0 obj
+<<
+  /Title  (nets)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 13 0 R
+  /First  26 0 R
+  /Last   33 0 R
+  /Count  8
+  /Prev   24 0 R
+  /Next   34 0 R
+>>
+endobj
+34 0 obj
+<<
+  /Title  (netBundles)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 13 0 R
+  /First  0 0 R
+  /Last   0 0 R
+  /Count  0
+  /Prev   25 0 R
+>>
+endobj
+13 0 obj
+<<
+  /Title  (Schematic page 1)
+  /C      [0.4 0.0 0.0]
+  /Dest   [10 0 R /Fit]
+  /Parent 7 0 R
+  /First  14 0 R
+  /Last   34 0 R
+  /Count  5
+>>
+endobj
+8 0 obj
+<<
+>>
+endobj
+9 0 obj
+<<
+  /Im0 12 0 R
+>>
+endobj
+35 0 obj
+<<
+  /Type /XObject
+  /Subtype /Image
+  /ColorSpace /DeviceGray
+  /BitsPerComponent 8
+  /Width 44
+  /Height 44
+  /Filter [/ASCII85Decode /RunLengthDecode]
+  /Length 283
+>>
+stream
+JH5HF!^3jOj8T2CZ9A$a!IFb&rrN(Equ?a\rS@JSrB:)Z!4(AZ!4)P'!9W&9!9X4[g&M!Ng&M!N
+g&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!N
+g&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!Ng&M!N!9W&9!9X4[
+!4(AZ!4)P'!BpD;rrN']qu?bErSRVUrHe;?!^3jOj8T2CZ9?V9J,~>
+endstream
+endobj
+12 0 obj
+<<
+  /Type /XObject
+  /Subtype /Image
+  /ColorSpace /DeviceRGB
+  /BitsPerComponent 8
+  /Width 44
+  /Height 44
+  /SMask 35 0 R
+  /Filter [/ASCII85Decode /RunLengthDecode]
+  /Length 6203
+>>
+stream
+JH16$JH4g4s$(3j5<qn,5YXI.9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qq-5YOC,9C)Xu
+5=%q,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<hh+5tgbKs$(X!
+5<hh+5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5>4:+9D&:/
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+o`02#5YXI.9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qs9!-^Xm9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YUhNG<\>d5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9LVEK
+@:<q[@;B:[CLLXe@:<q[@;A;$;EmE?5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9_AC05<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+@:<sGq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd9o`02#5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qnN@;GW4q=j[[p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qp8!-^Xm9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YPTpC\RW"p\=RYq"a[Zq=j[[p\=Pm@;A(m9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YUhNG<\>d5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9OV@Fp\=RYq"a[Zq=j[[p\=RYq"\?,CHk'X5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9_AC05<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd9@:<sGq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9o`02#5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qnN@;GW4q=j[[p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qp8!-^Xm9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YPTpC\RW"p\=RYq"a[Zq=j[[p\=Pm@;A(m9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YUhNG<\>d5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9OV@Fp\=RYq"a[Zq=j[[p\=RYq"\?,CHk'X5<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9_AC05<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9@:<sGq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9o`02#5YOC-9Ktd95<qn,5YOC-9LVEK
+@:<q[@;B:[CLLXe@:<q[@;B:[CLLXe@:<r"I>.Fjq=j[[p\=RYq"a[Zq=j[[I=6fX@;B:[CLLXe
+@:<q[@;B:[CLLXe@:<q[@;A;$;EmE?5<qn,5YOC-9Ktd95<qp8!-^Xm9Ktd95<qn,5YOC-9Ktd9
+@:<sGq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[
+p\=RYq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd95<qn,5YUhNG<\>d5<qn,5YOC-9Ktd9
+5<qnN@;GW4q=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[
+p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9_AC05<qn,5YOC-9Ktd9
+5<qn,5YPTpC\RW"p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[
+p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=Pm@;A(m9Ktd95<qn,5YOC-9Ktd9o`02#5YOC-9Ktd9
+5<qn,5YOC-9OV@Fp\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[
+p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"\?,CHk'X5<qn,5YOC-9Ktd95<qp8!-^Xm9Ktd9
+5<qn,5YOC-9Ktd9@:<sGq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[
+p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd95<qn,5YUhNG<\>d
+5<qn,5YOC-9Ktd95<qnN@;GW4q=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[
+p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9_AC0
+5<qn,5YOC-9Ktd95<qn,5YOU9;IO!L@:<q[@;B:[CLLXe@:<q[@;B:[CLLXeI=6hDq"a[Zq=j[[
+p\=RYq"a[Zq0d[F@:<q[@;B:[CLLXe@:<q[@;B:[CLLXe@:<q?7T)H99Ktd95<qn,5YOC-9Ktd9
+o`02#5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qnN@;GW4q=j[[
+p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qp8!-^Xm9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YPTpC\RW"
+p\=RYq"a[Zq=j[[p\=Pm@;A(m9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YUhNG<\>d5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9OV@F
+p\=RYq"a[Zq=j[[p\=RYq"\?,CHk'X5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9_AC05<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+@:<sGq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd9o`02#5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qnN@;GW4q=j[[p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qp8!-^Xm9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YPTpC\RW"p\=RYq"a[Zq=j[[p\=Pm@;A(m9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YUhNG<\>d5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9OV@Fp\=RYq"a[Zq=j[[p\=RYq"\?,CHk'X5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9_AC05<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd9@:<sGq"a[Zq=j[[p\=RYq"a[Zq-d]I5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9o`02#5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qnN@;GW4q=j[[p\=RYq"a[Zq=j[[@:<q95YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qp8!-^Xm9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOU9;IO!L@:<q[@;B:[CLLXe@:<q?7T)H99Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YUhNG<\>d5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9_AC05<qq-5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd:o`02#5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qp8!<59+90YX75<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<hh+5>1PIEBZW^5<hh+5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Kta85=%s/!<58t90Y[85<qq-5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd95<qn,5YOC-9Ktd9
+5<qn,5YOC-9Ktd95<qn,5YOC-9Ktd:5<qn,5>-P-oDjC~>
+endstream
+endobj
+7 0 obj
+<<
+  /Type  /Outline
+  /First 13 0 R
+  /Last  13 0 R
+  /Count 1
+>>
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000009 00000 n 
+0000000229 00000 n 
+0000005410 00000 n 
+0000000379 00000 n 
+0000000506 00000 n 
+0000005529 00000 n 
+0000016197 00000 n 
+0000009229 00000 n 
+0000009250 00000 n 
+0000000714 00000 n 
+0000000855 00000 n 
+0000009773 00000 n 
+0000009068 00000 n 
+0000006255 00000 n 
+0000005795 00000 n 
+0000005942 00000 n 
+0000006107 00000 n 
+0000007187 00000 n 
+0000006415 00000 n 
+0000006558 00000 n 
+0000006718 00000 n 
+0000006880 00000 n 
+0000007042 00000 n 
+0000007360 00000 n 
+0000008737 00000 n 
+0000007535 00000 n 
+0000007673 00000 n 
+0000007828 00000 n 
+0000007983 00000 n 
+0000008140 00000 n 
+0000008295 00000 n 
+0000008448 00000 n 
+0000008601 00000 n 
+0000008909 00000 n 
+0000009285 00000 n 
+trailer
+<<
+  /Size 36
+  /Info 1 0 R
+  /Root 2 0 R
+>>
+startxref
+16279
+%%EOF
